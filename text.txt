@@ -1,0 +1,17 @@
+4
+TF 2
+Is the sky blue?
+true
+SA 3
+What is 2+2?
+4
+MC 5
+Which is a fruit?
+3
+Apple
+Carrot
+Potato
+A
+TF 2
+Does 2+2=5?
+false
